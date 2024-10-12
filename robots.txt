@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vuyaqarace.pages.dev/sitemap.xml
